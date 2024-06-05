@@ -1,6 +1,6 @@
-Welcome to the ATM Management System project! This Python-based application simulates an ATM interface, providing essential banking functionalities such as account balance inquiries, cash withdrawals, deposits, and PIN changes. 
-Users are authenticated through a username and PIN system, ensuring secure access to their accounts.
-This project is designed to demonstrate fundamental programming concepts, including loops, conditionals, and user input handling, making it an excellent resource for beginners learning Python.
+#Welcome to the ATM Management System project! This Python-based application simulates an ATM interface, providing essential banking functionalities such as account balance inquiries, cash withdrawals, deposits, and PIN changes. 
+#Users are authenticated through a username and PIN system, ensuring secure access to their accounts.
+#This project is designed to demonstrate fundamental programming concepts, including loops, conditionals, and user input handling, making it an excellent resource for beginners learning Python.
 # Code:
 
 import string
